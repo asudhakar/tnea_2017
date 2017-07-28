@@ -165,7 +165,7 @@
 	$default_aproved_intake['PGP']['cse_department'] = 56;
 	$default_aproved_intake['PGP']['ece_department'] = 37;
 	$default_aproved_intake['PGP']['eee_department'] = 38;
-	$default_aproved_intake['PGP']['enadi_department'] = 18;
+	$default_aproved_intake['PGP']['eandi_department'] = 18;
 	$default_aproved_intake['PGP']['mech_ex_department'] = 1;
 	$default_aproved_intake['PGP']['mech_department'] = 74;
 
@@ -430,14 +430,6 @@
 	$default_aproved_intake['vidyaavikaas']['eee_department'] = 38;
 	$default_aproved_intake['vidyaavikaas']['mech_department'] = 75;
 
-	//NACHIMUTHU
-	$default_aproved_intake['NACHIMUTHU']['civil_department'] = 37;
-	$default_aproved_intake['NACHIMUTHU']['cse_department'] = 57;
-	$default_aproved_intake['NACHIMUTHU']['ece_department'] = 56;
-	$default_aproved_intake['NACHIMUTHU']['eee_department'] = 38;
-	$default_aproved_intake['NACHIMUTHU']['it_department'] = 37;
-	$default_aproved_intake['NACHIMUTHU']['mech_department'] = 74;
-
 	//Vivekanandha1
 	$default_aproved_intake['Vivekanandha1']['bio_department'] = 37;
 	$default_aproved_intake['Vivekanandha1']['cse_department'] = 74;
@@ -541,14 +533,18 @@
 							'VETRI',
 							'TAGORE',
 							'DHANALAKSHMI',
-							'NACHIMUTHU',
 							'PGP',
 							'SRS',
 							'SSM',
 							'SALEM_COLLEGE',
 							'SELVAM',
 							'SPECTRUM',
-							'SRG'
+							'SRG',
+							'M_KUMARASAMY',
+							'GNANAMANI1',
+							'JJKMUNIRAJAH',
+							'JJKNATTRAJA',
+							'M_P_NACHIMUTHU'
 						);
 	foreach ($college_names as $key => $college_name) {
 		

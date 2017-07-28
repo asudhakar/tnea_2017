@@ -31,7 +31,7 @@
 <form action="save_data.php" id="save_data" method="POST">
 	<input type="text" name="college" value="PGP">
 	<?php 
-	$department = array("civil_department","cse_department","ece_department",eee_department","eandi_department","mech_ex_department", "mech_department" );
+	$department = array("civil_department","cse_department","ece_department","eee_department","eandi_department","mech_ex_department", "mech_department" );
 
 		foreach ($department as $key => $department_name) {
 			echo '<input type="text" name="'.$department_name.'" id="'.$department_name.'">';
