@@ -264,6 +264,14 @@
 	$default_aproved_intake['Muthayammal2']['it_department'] = 53;
 	$default_aproved_intake['Muthayammal2']['mech_department'] = 163;
 
+		//M_P_NACHIMUTHU
+	$default_aproved_intake['M_P_NACHIMUTHU']['civil_department'] = 37;
+	$default_aproved_intake['M_P_NACHIMUTHU']['cse_department'] = 57;
+	$default_aproved_intake['M_P_NACHIMUTHU']['ece_department'] = 56;
+	$default_aproved_intake['M_P_NACHIMUTHU']['eee_department'] = 38;
+	$default_aproved_intake['M_P_NACHIMUTHU']['it_department'] = 37;
+	$default_aproved_intake['M_P_NACHIMUTHU']['mech_department'] = 74;
+
 
 	//Narasu
 	$default_aproved_intake['Narasu']['civil_department'] = 49;

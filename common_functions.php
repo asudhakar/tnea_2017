@@ -44,6 +44,8 @@
 								'DHANALAKSHMI' => 'Dhanalakshmi Srinivasan Institute of Technology',
 								'JJKNATTRAJA'=>'2647-J.K.K. NATTRAJA COLLEGE OF ENGINEERING AND TECHNOLOGY',
 								
+								'M_KUMARASAMY' =>'2608-M.KUMARASAMY COLLEGE OF ENGINEERING',
+								'M_P_NACHIMUTHU' =>'2713-M.P. NACHIMUTHU M. JAGANATHAN ENGINEERING COLLEGE',
 
 							);
 		return $college_slugs_names[$slug];
