@@ -1,7 +1,7 @@
 <?php 
 	include_once 'curd_operations.php';
 	function db_connect(){
-		$connection = mysqli_connect("localhost", "root", "testing@12345", "vacency");
+		$connection = mysqli_connect("localhost", "root", "", "vacency");
 		if (!$connection) {
 			die("Connection failed: " . mysqli_connect_error());
 			exit();
