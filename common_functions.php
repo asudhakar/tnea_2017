@@ -39,7 +39,10 @@
 								'VELALAR'=>'2723 - velalar college of engineering and technology',
 								'VETRI' => '3850 - Vetri Vinayaga College of Engineering and Technology',
 								'TAGORE' => '2646 - Tagore Institute of Engineering and Technology',
-								'DHANALAKSHMI' => 'Dhanalakshmi Srinivasan Institute of Technology'
+								'DHANALAKSHMI' => 'Dhanalakshmi Srinivasan Institute of Technology',
+								'NACHIMUTHU' => 'M.P Nachimuthu  M.Jaganathan Engineering and technology',
+								'PGP' =>'pgp college of engineering and technology',
+								'SSM' => '2614-S.S.M. COLLEGE OF ENGINEERING'
 							);
 		return $college_slugs_names[$slug];
 	}
@@ -73,7 +76,12 @@
 										 "et_department" => "Electronics and Technology",
 										 "petrochemical_department" => "Petro Chemical",
 										 "petro_chemical_department" => "Petro Chemical",
-										 "petroleum_department" => "Petroleum Science"
+										 "petroleum_department" => "Petroleum Science",
+										 "mech_ex_department" => "Mechanical Department Ex - Service",
+										 "cse_ex_department" => "CSE - EX",
+										 "textile_chemistry" => "Textile Chemistry",
+										 "textile_technology" => "Textile Technology",
+										 "petroleum_eng_department" => "Petroleum Engineering"
 										 );
 		return $department_slugs_names[$slug];
 	}

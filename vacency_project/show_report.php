@@ -124,7 +124,14 @@
 	$default_aproved_intake['KIOT']['ece_department'] = 72;
 	$default_aproved_intake['KIOT']['mech_department'] = 150;
 
-
+   //PGP
+	$default_aproved_intake['PGP']['civil_department'] = 38;
+	$default_aproved_intake['PGP']['cse_department'] = 56;
+	$default_aproved_intake['PGP']['ece_department'] = 37;
+	$default_aproved_intake['PGP']['eee_department'] = 38;
+	$default_aproved_intake['PGP']['enadi_department'] = 18;
+	$default_aproved_intake['PGP']['mech_ex_department'] = 1;
+	$default_aproved_intake['PGP']['mech_department'] = 74;
 
 	//KSR1
 	$default_aproved_intake['KSR1']['bio_tech_department'] = 38;
@@ -286,6 +293,19 @@
 	$default_aproved_intake['DHANALAKSHMI']['eee_department'] = 38;
 	$default_aproved_intake['DHANALAKSHMI']['mech_department'] = 111;
 
+	//SSM
+	$default_aproved_intake['SSM']['civil_department'] = 48;
+	$default_aproved_intake['SSM']['cse_department'] = 37;
+	$default_aproved_intake['SSM']['cse_ex_department'] = 1;
+	$default_aproved_intake['SSM']['ece_department'] = 71;
+	$default_aproved_intake['SSM']['eee_department'] = 38;
+	$default_aproved_intake['SSM']['it_department'] = 37;
+	$default_aproved_intake['SSM']['mech_department'] = 95;
+	$default_aproved_intake['SSM']['petrochemical_department'] = 37;
+	$default_aproved_intake['SSM']['petroleum_eng_department'] = 37;
+	$default_aproved_intake['SSM']['textile_chemistry'] = 19;
+	$default_aproved_intake['SSM']['textile_technology'] = 36;
+
 	//IRTT
 	$default_aproved_intake['IRTT']['automobile_ex_department'] = 1;
 	$default_aproved_intake['IRTT']['automobile_department'] = 36;
@@ -312,6 +332,12 @@
 	$default_aproved_intake['sengunthar2']['eee_department'] = 67;
 	$default_aproved_intake['sengunthar2']['mech_department'] = 58;
 
+	//SRS
+	$default_aproved_intake['SRS']['civil_department'] = 38;
+	$default_aproved_intake['SRS']['cse_department'] = 37;
+	$default_aproved_intake['SRS']['ece_department'] = 37;
+	$default_aproved_intake['SRS']['eee_department'] = 38;
+	$default_aproved_intake['SRS']['mech_department'] = 37;
 
 	
 	//SONA
@@ -333,6 +359,13 @@
 	$default_aproved_intake['vidyaavikaas']['eee_department'] = 38;
 	$default_aproved_intake['vidyaavikaas']['mech_department'] = 75;
 
+	//NACHIMUTHU
+	$default_aproved_intake['NACHIMUTHU']['civil_department'] = 37;
+	$default_aproved_intake['NACHIMUTHU']['cse_department'] = 57;
+	$default_aproved_intake['NACHIMUTHU']['ece_department'] = 56;
+	$default_aproved_intake['NACHIMUTHU']['eee_department'] = 38;
+	$default_aproved_intake['NACHIMUTHU']['it_department'] = 37;
+	$default_aproved_intake['NACHIMUTHU']['mech_department'] = 74;
 
 	//Vivekanandha1
 	$default_aproved_intake['Vivekanandha1']['bio_department'] = 37;
@@ -436,7 +469,11 @@
 							'VELALAR',
 							'VETRI',
 							'TAGORE',
-							'DHANALAKSHMI'
+							'DHANALAKSHMI',
+							'NACHIMUTHU',
+							'PGP',
+							'SRS',
+							'SSM'
 						);
 	foreach ($college_names as $key => $college_name) {
 		
