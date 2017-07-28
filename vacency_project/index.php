@@ -40,8 +40,17 @@
 	<iframe src='http://139.59.40.213/vacency_project/jkk_munirajah.php'>  <p>Your browser does not support iframes.</p></iframe>
 	<iframe src='http://139.59.40.213/vacency_project/tagore.php'>  <p>Your browser does not support iframes.</p></iframe>
 	<iframe src='http://139.59.40.213/vacency_project/dhanalakshmi.php'>  <p>Your browser does not support iframes.</p></iframe>
+<<<<<<< HEAD
 	<iframe src='http://139.59.40.213/vacency_project/m.p.nachimuthu.php'>  <p>Your browser does not support iframes.</p></iframe>
 	
+=======
+	<iframe src='http://139.59.40.213/vacency_project/nachimuthu.php'>  <p>Your browser does not support iframes.</p></iframe>
+	<iframe src='http://139.59.40.213/vacency_project/pgp.php'>  <p>Your browser does not support iframes.</p></iframe>
+	<iframe src='http://139.59.40.213/vacency_project/SRS.php'>  <p>Your browser does not support iframes.</p></iframe>
+	<iframe src='http://139.59.40.213/vacency_project/ssm.php'>  <p>Your browser does not support iframes.</p></iframe>
+
+
+>>>>>>> 5d30ea01cfec99e0ae9475c7fb64f1f2417ca896
 	
 	<script language="javascript">
 		setTimeout(function(){
