@@ -50,6 +50,7 @@
 	<iframe src='http://139.59.40.213/vacency_project/salem_college.php'>  <p>Your browser does not support iframes.</p></iframe>
 	<iframe src='http://139.59.40.213/vacency_project/selvam.php'>  <p>Your browser does not support iframes.</p></iframe>
 	<iframe src='http://139.59.40.213/vacency_project/spectrum.php'>  <p>Your browser does not support iframes.</p></iframe>
+	<iframe src='http://139.59.40.213/vacency_project/srg.php'>  <p>Your browser does not support iframes.</p></iframe>
 
 	
 	<script language="javascript">
