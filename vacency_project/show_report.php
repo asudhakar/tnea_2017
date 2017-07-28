@@ -54,6 +54,13 @@
 	$default_aproved_intake['NAGARATHINAM']['eee_department'] = 38;
 	$default_aproved_intake['NAGARATHINAM']['mech_department'] = 75;
 
+	// GNANAMANI1
+	$default_aproved_intake['GNANAMANI1']['civil_department'] = 75;
+	$default_aproved_intake['GNANAMANI1']['cse_department'] = 75;
+	$default_aproved_intake['GNANAMANI1']['ece_department'] = 112;
+	$default_aproved_intake['GNANAMANI1']['eee_department'] = 75;
+	$default_aproved_intake['GNANAMANI1']['mech_department'] = 149;
+
 	//GNANAMANI
 	$default_aproved_intake['GNANAMANI']['civil_department'] = 113;
 	$default_aproved_intake['GNANAMANI']['cse_department'] = 75;
@@ -156,6 +163,33 @@
 	$default_aproved_intake['KSR2']['eee_department'] = 105;
 	$default_aproved_intake['KSR2']['it_department'] = 38;
 	$default_aproved_intake['KSR2']['mech_department'] = 142;
+
+		//JJKMUNIRAJAH
+	$default_aproved_intake['JJKMUNIRAJAH']['automobile_department'] = 37;
+	$default_aproved_intake['JJKMUNIRAJAH']['civil_department'] = 38;
+	$default_aproved_intake['JJKMUNIRAJAH']['cse_department'] = 37;
+	$default_aproved_intake['JJKMUNIRAJAH']['ece_department'] = 38;
+	$default_aproved_intake['JJKMUNIRAJAH']['eee_department'] = 38;
+	$default_aproved_intake['JJKMUNIRAJAH']['it_department'] = 38;
+	$default_aproved_intake['JJKMUNIRAJAH']['mech_department'] = 37;
+
+		//JJKNATTRAJA
+	$default_aproved_intake['JJKNATTRAJA']['cse_department'] = 53;
+	$default_aproved_intake['JJKNATTRAJA']['ece_department'] = 52;
+	$default_aproved_intake['JJKNATTRAJA']['eee_department'] = 53;
+	$default_aproved_intake['JJKNATTRAJA']['it_department'] = 52;
+	$default_aproved_intake['JJKNATTRAJA']['mech_department'] = 263;
+
+		//M_KUMARASAMY
+	$default_aproved_intake['M_KUMARASAMY']['civil_department'] = 75;
+	$default_aproved_intake['M_KUMARASAMY']['cse_department'] = 75;
+	$default_aproved_intake['M_KUMARASAMY']['ece_department'] = 149;
+	$default_aproved_intake['M_KUMARASAMY']['eee_department'] = 112;
+	$default_aproved_intake['M_KUMARASAMY']['eandi_department'] = 38;
+	$default_aproved_intake['M_KUMARASAMY']['it_ex_department'] = 1;
+	$default_aproved_intake['M_KUMARASAMY']['it_department'] = 73;
+	$default_aproved_intake['M_KUMARASAMY']['mech_department'] = 150;
+
 
 	//KSR3
 	$default_aproved_intake['KSR3']['eee_department'] = 48;
