@@ -123,6 +123,29 @@
 	$default_aproved_intake['KAVERY']['eee_department'] = 74;
 	$default_aproved_intake['KAVERY']['mech_department'] = 150;
 
+	//SPECTRUM
+	$default_aproved_intake['SPECTRUM']['civil_department'] = 43;
+	$default_aproved_intake['SPECTRUM']['cse_department'] = 44;
+	$default_aproved_intake['SPECTRUM']['ece_department'] = 43;
+	$default_aproved_intake['SPECTRUM']['eee_department'] = 44;
+	$default_aproved_intake['SPECTRUM']['mech_department'] = 37;
+
+	//SELVAM
+	$default_aproved_intake['SELVAM']['bio_department'] = 36;
+	$default_aproved_intake['SELVAM']['civil_department'] = 75;
+	$default_aproved_intake['SELVAM']['cse_department'] = 38;
+	$default_aproved_intake['SELVAM']['ece_department'] = 75;
+	$default_aproved_intake['SELVAM']['eee_department'] = 75;
+	$default_aproved_intake['SELVAM']['mech_department'] = 150;
+
+	//SALEM_COLLEGE
+	$default_aproved_intake['SALEM_COLLEGE']['bio_department'] = 37;
+	$default_aproved_intake['SALEM_COLLEGE']['civil_department'] = 38;
+	$default_aproved_intake['SALEM_COLLEGE']['cse_ex_department'] = 1;
+	$default_aproved_intake['SALEM_COLLEGE']['cse_department'] = 36;
+	$default_aproved_intake['SALEM_COLLEGE']['ece_department'] = 38;
+	$default_aproved_intake['SALEM_COLLEGE']['eee_department'] = 38;
+	$default_aproved_intake['SALEM_COLLEGE']['mech_department'] = 74;
 
 	//KIOT
 	$default_aproved_intake['KIOT']['eee_department'] = 75;
@@ -515,7 +538,10 @@
 							'NACHIMUTHU',
 							'PGP',
 							'SRS',
-							'SSM'
+							'SSM',
+							'SALEM_COLLEGE',
+							'SELVAM',
+							'SPECTRUM'
 						);
 	foreach ($college_names as $key => $college_name) {
 		

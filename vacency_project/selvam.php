@@ -9,7 +9,7 @@
 <?php  
 	$postdata = http_build_query(
 		array(
-			'cname' => '2614',
+			'cname' => '2627',
 			'btncname' => 'Find',
 			'ccode' => '0',
 			'bname' => '0'
@@ -29,9 +29,9 @@
 	echo $final_selected_row[0];
 ?>
 <form action="save_data.php" id="save_data" method="POST">
-	<input type="text" name="college" value="SSM">
+	<input type="text" name="college" value="SELVAM">
 	<?php 
-	$department = array("civil_department","cse_ex_department","cse_department","ece_department","eee_department", "it_department","mech_department", "petrochemical_department","petroleum_eng_department", "textile_chemistry", "textile_technology");
+	$department = array("bio_department","civil_department","cse_department","ece_department","eee_department","mech_department");
 
 		foreach ($department as $key => $department_name) {
 			echo '<input type="text" name="'.$department_name.'" id="'.$department_name.'">';

@@ -42,12 +42,18 @@
 	<iframe src='http://139.59.40.213/vacency_project/dhanalakshmi.php'>  <p>Your browser does not support iframes.</p></iframe>
 
 	<iframe src='http://139.59.40.213/vacency_project/m.p.nachimuthu.php'>  <p>Your browser does not support iframes.</p></iframe>
-	
+
 	<iframe src='http://139.59.40.213/vacency_project/nachimuthu.php'>  <p>Your browser does not support iframes.</p></iframe>
 	<iframe src='http://139.59.40.213/vacency_project/pgp.php'>  <p>Your browser does not support iframes.</p></iframe>
 	<iframe src='http://139.59.40.213/vacency_project/SRS.php'>  <p>Your browser does not support iframes.</p></iframe>
 	<iframe src='http://139.59.40.213/vacency_project/ssm.php'>  <p>Your browser does not support iframes.</p></iframe>
+
 	<iframe src='http://139.59.40.213/vacency_project/m.kumarasamy.php'>  <p>Your browser does not support iframes.</p></iframe>
+
+	<iframe src='http://139.59.40.213/vacency_project/salem_college.php'>  <p>Your browser does not support iframes.</p></iframe>
+	<iframe src='http://139.59.40.213/vacency_project/selvam.php'>  <p>Your browser does not support iframes.</p></iframe>
+	<iframe src='http://139.59.40.213/vacency_project/spectrum.php'>  <p>Your browser does not support iframes.</p></iframe>
+
 	
 	<script language="javascript">
 		setTimeout(function(){
