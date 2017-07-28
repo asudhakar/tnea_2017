@@ -47,7 +47,6 @@
 								'M_P_NACHIMUTHU' =>'2713-M.P. NACHIMUTHU M. JAGANATHAN ENGINEERING COLLEGE',
 								'NACHIMUTHU' => 'M.P Nachimuthu  M.Jaganathan Engineering and technology',
 								'PGP' =>'pgp college of engineering and technology',
-								'SSM' => '2614-S.S.M. COLLEGE OF ENGINEERING'
 								'JJKNATTRAJA'=>'2647-J.K.K. NATTRAJA COLLEGE OF ENGINEERING AND TECHNOLOGY',
 								'SALEM_COLLEGE' => '2659-SALEM COLLEGE OF ENGINEERING AND TECHNOLOGY',
 								'SELVAM' => '2627-SELVAM COLLEGE OF TECHNOLOGY',
