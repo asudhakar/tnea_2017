@@ -173,6 +173,16 @@
 	$default_aproved_intake['JJKNATTRAJA']['it_department'] = 52;
 	$default_aproved_intake['JJKNATTRAJA']['mech_department'] = 263;
 
+		//M_KUMARASAMY
+	$default_aproved_intake['M_KUMARASAMY']['civil_department'] = 75;
+	$default_aproved_intake['M_KUMARASAMY']['cse_department'] = 75;
+	$default_aproved_intake['M_KUMARASAMY']['ece_department'] = 149;
+	$default_aproved_intake['M_KUMARASAMY']['eee_department'] = 112;
+	$default_aproved_intake['M_KUMARASAMY']['eandi_department'] = 38;
+	$default_aproved_intake['M_KUMARASAMY']['it_ex_department'] = 1;
+	$default_aproved_intake['M_KUMARASAMY']['it_department'] = 73;
+	$default_aproved_intake['M_KUMARASAMY']['mech_department'] = 150;
+
 
 	//KSR3
 	$default_aproved_intake['KSR3']['eee_department'] = 48;

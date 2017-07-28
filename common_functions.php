@@ -38,13 +38,12 @@
 								'KING' => '2631 - King College of Technology',
 								'VELALAR'=>'2723 - velalar college of engineering and technology',
 								'VETRI' => '3850 - Vetri Vinayaga College of Engineering and Technology',
-
 								'GNANAMANI1' => '2624 - GNANAMANI COLLEGE OF TECHNOLOGY',
 								'JJKMUNIRAJAH' => '2758 - J K K MUNIRAJAH COLLEGE OF TECHNOLOGY',
-
 								'TAGORE' => '2646 - Tagore Institute of Engineering and Technology',
 								'DHANALAKSHMI' => 'Dhanalakshmi Srinivasan Institute of Technology',
 								'JJKNATTRAJA'=>'2647-J.K.K. NATTRAJA COLLEGE OF ENGINEERING AND TECHNOLOGY',
+								
 
 							);
 		return $college_slugs_names[$slug];
@@ -58,6 +57,7 @@
 										 "ece_department" => "ECE",
 										 "eee_department" => "EEE",
 										 "it_department" => "IT",
+										 "it_ex_department" => "IT Ex - Service",
 										 "mech_department" => "Mech",
 										 "grand_total" => "Grand Total",
 										 "fashion_department" => "Fashion",
