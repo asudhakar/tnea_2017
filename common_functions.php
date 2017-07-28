@@ -37,7 +37,9 @@
 								'GNANAMANI' => '2660-GNANAMANI COLLEGE OF ENGINEERING',
 								'KING' => '2631 - King College of Technology',
 								'VELALAR'=>'2723 - velalar college of engineering and technology',
-								'VETRI' => '3850 - Vetri Vinayaga College of Engineering and Technology'
+								'VETRI' => '3850 - Vetri Vinayaga College of Engineering and Technology',
+								'TAGORE' => '2646 - Tagore Institute of Engineering and Technology',
+								'DHANALAKSHMI' => 'Dhanalakshmi Srinivasan Institute of Technology'
 							);
 		return $college_slugs_names[$slug];
 	}

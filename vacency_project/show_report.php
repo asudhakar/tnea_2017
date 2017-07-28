@@ -271,6 +271,20 @@
 	$default_aproved_intake['PAAVAI2']['mechatronics_department'] = 37;
 	$default_aproved_intake['PAAVAI2']['mech_department'] = 152;
 
+	//TAGORE
+	$default_aproved_intake['TAGORE']['civil_department'] = 37;
+	$default_aproved_intake['TAGORE']['cse_department'] = 38;
+	$default_aproved_intake['TAGORE']['ece_department'] = 37;
+	$default_aproved_intake['TAGORE']['eee_department'] = 38;
+	$default_aproved_intake['TAGORE']['mech_department'] = 75;
+
+	//DHANALAKSHMI
+	$default_aproved_intake['DHANALAKSHMI']['bio_medical_department'] = 37;
+	$default_aproved_intake['DHANALAKSHMI']['civil_department'] = 75;
+	$default_aproved_intake['DHANALAKSHMI']['cse_department'] = 38;
+	$default_aproved_intake['DHANALAKSHMI']['ece_department'] = 37;
+	$default_aproved_intake['DHANALAKSHMI']['eee_department'] = 38;
+	$default_aproved_intake['DHANALAKSHMI']['mech_department'] = 111;
 
 	//IRTT
 	$default_aproved_intake['IRTT']['automobile_ex_department'] = 1;
@@ -420,7 +434,9 @@
 							'GNANAMANI',
 							'KING',
 							'VELALAR',
-							'VETRI'
+							'VETRI',
+							'TAGORE',
+							'DHANALAKSHMI'
 						);
 	foreach ($college_names as $key => $college_name) {
 		
