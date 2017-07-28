@@ -45,7 +45,10 @@
 								'NACHIMUTHU' => 'M.P Nachimuthu  M.Jaganathan Engineering and technology',
 								'PGP' =>'pgp college of engineering and technology',
 								'SSM' => '2614-S.S.M. COLLEGE OF ENGINEERING'
-								'JJKNATTRAJA'=>'2647-J.K.K. NATTRAJA COLLEGE OF ENGINEERING AND TECHNOLOGY'
+								'JJKNATTRAJA'=>'2647-J.K.K. NATTRAJA COLLEGE OF ENGINEERING AND TECHNOLOGY',
+								'SALEM_COLLEGE' => '2659-SALEM COLLEGE OF ENGINEERING AND TECHNOLOGY',
+								'SELVAM' => '2627-SELVAM COLLEGE OF TECHNOLOGY',
+								'SPECTRUM' => '2371-SPECTRUM COLLEGE OF TECHNOLOGY'
 							);
 		return $college_slugs_names[$slug];
 	}
