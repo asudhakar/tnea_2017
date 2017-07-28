@@ -7,6 +7,15 @@
 	$default_aproved_intake['SHANMUGHA']['ece_department'] = 59;
 	$default_aproved_intake['SHANMUGHA']['mech_department'] = 58;
 
+
+	//VETRI
+	$default_aproved_intake['VETRI']['civil_department'] = 56;
+	$default_aproved_intake['VETRI']['cse_department'] = 37;
+	$default_aproved_intake['VETRI']['ece_department'] = 38;
+	$default_aproved_intake['VETRI']['eee_department'] = 37;
+	$default_aproved_intake['VETRI']['mech_department'] = 75;
+
+
 	//ANNAPOORNA
 	$default_aproved_intake['ANNAPOORNA']['automobile_department'] = 56;
 	$default_aproved_intake['ANNAPOORNA']['civil_department'] = 55;
@@ -410,7 +419,8 @@
 							'GANESH',
 							'GNANAMANI',
 							'KING',
-							'VELALAR'
+							'VELALAR',
+							'VETRI'
 						);
 	foreach ($college_names as $key => $college_name) {
 		

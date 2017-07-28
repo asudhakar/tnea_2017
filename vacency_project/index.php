@@ -34,6 +34,7 @@
 	<iframe src='http://139.59.40.213/vacency_project/ganesh.php'>  <p>Your browser does not support iframes.</p></iframe>
 	<iframe src='http://139.59.40.213/vacency_project/GNANAMANI.php'>  <p>Your browser does not support iframes.</p></iframe>
 	<iframe src='http://139.59.40.213/vacency_project/king.php'>  <p>Your browser does not support iframes.</p></iframe>
+	<iframe src='http://139.59.40.213/vacency_project/vetri.php'>  <p>Your browser does not support iframes.</p></iframe>
 	
 	<script language="javascript">
 		setTimeout(function(){
